@@ -1,5 +1,3 @@
-
-
 public class CalculatorBackend {
     private double number, answer;
     private int calculation;
